@@ -46,7 +46,15 @@ enum OsIcon {
   records('records'),
   streak('streak'),
   strength('strength'),
-  add('add');
+  add('add'),
+  cardio('cardio'),
+  yoga('yoga'),
+  run('run'),
+  cycling('cycling'),
+  walk('walk'),
+  swim('swim'),
+  hiit('hiit'),
+  workoutOther('workout-other');
 
   const OsIcon(this.baseName);
 
