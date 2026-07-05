@@ -36,6 +36,16 @@ enum OsIcon {
   elevation('elevation'),
   skinTemperature('skin-temperature'),
   temperatureDeviation('temperature-deviation'),
+  activity('activity'),
+  ai('ai'),
+  alarm('alarm'),
+  edit('edit'),
+  notifications('notifications'),
+  profile('profile'),
+  recap('recap'),
+  records('records'),
+  streak('streak'),
+  strength('strength'),
   add('add');
 
   const OsIcon(this.baseName);
