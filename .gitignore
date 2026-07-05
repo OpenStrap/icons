@@ -1,0 +1,11 @@
+.dart_tool/
+build/
+pubspec.lock
+example/.dart_tool/
+example/build/
+example/pubspec.lock
+.idea/
+*.iml
+
+# macOS
+.DS_Store
