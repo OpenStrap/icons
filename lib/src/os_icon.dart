@@ -54,7 +54,32 @@ enum OsIcon {
   walk('walk'),
   swim('swim'),
   hiit('hiit'),
-  workoutOther('workout-other');
+  workoutOther('workout-other'),
+  hydration('hydration'),
+  wear('wear'),
+  calendar('calendar'),
+  history('history'),
+  battery('battery'),
+  bluetooth('bluetooth'),
+  settings('settings'),
+  privacy('privacy'),
+  sync('sync'),
+  info('info'),
+  check('check'),
+  cancel('cancel'),
+  trash('trash'),
+  plus('plus'),
+  arrowRight('arrowRight'),
+  arrowLeft('arrowLeft'),
+  up('up'),
+  down('down'),
+  logout('logout'),
+  server('server'),
+  shield('shield'),
+  github('github'),
+  discord('discord'),
+  reddit('reddit'),
+  twitter('twitter');
 
   const OsIcon(this.baseName);
 
